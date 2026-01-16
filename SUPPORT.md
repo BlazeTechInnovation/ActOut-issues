@@ -6,7 +6,7 @@ Whether you have a question, encounter an issue, or just want to share your expe
 
 ---
 
-## 🛠️ Reporting an Issue
+## 🛠️ Reporting an Issue 
 
 To help us assist you quickly, please follow these steps:
 
