@@ -42,12 +42,5 @@ You can also email us directly at:
 
 ---
 
-## 📌 Important Notes for Reviewers
-
-- ActOut is fully functional with all mini-games ready to play locally.  
-- Some content (images, app icons, descriptions) may be updated post-release.  
-
----
-
 Thank you for trying **ActOut – Party Games**! 🎲  
 Get your friends together and let the fun begin!
