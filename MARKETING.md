@@ -2,16 +2,28 @@
 
 Welcome to the official **ActOut – Party Games** page!  
 
-ActOut is a fun, social party game app designed for friends and family to play together. Whether you're at home or on the go, ActOut brings laughter and entertainment to any gathering.  
+ActOut is the ultimate party game app for friends and family. Whether it’s a casual get-together, game night, or birthday, ActOut brings laughter, challenges, and unforgettable moments to any gathering.  
 
 ---
 
 ## 🚀 Features
 
-- Multiple game categories: Animals, Movies, Lifestyle, and more!  
-- Fun challenges like Pantomime, True or False, and Never Have I Ever.  
-- Play with friends online or locally.  
-- Unlock categories and VIP features for endless fun.  
+- **6 exciting party games in one app:**  
+  - **Imposter** – The classic game with a twist! Activate **Drawing** or **Pantomime** mode for a unique experience.  
+  - **Tabu** – Describe words without using the forbidden ones.  
+  - **Who Am I?** – Ask clever questions and guess your hidden identity.  
+  - **Never Have I Ever** – Surprising, honest, and always entertaining.  
+  - **True or False** – Spot the bluffs or trick your friends.  
+  - **Categories Bomber** – Think fast and find matching words before time runs out 💣  
+
+- **Simple and intuitive gameplay:**  
+  1. Add players  
+  2. Choose a mini-game  
+  3. Set your game experience and start playing  
+
+- Perfect for small and large groups alike  
+- Quick to start, easy to use  
+- Ideal for family nights, friend gatherings, and casual events  
 
 ---
 
@@ -32,11 +44,10 @@ You can also email us directly at:
 
 ## 📌 Important Notes for Reviewers
 
-- ActOut uses test accounts for In-App Purchase (IAP) verification.  
-- All features are fully functional with the test credentials provided.  
-- Some content (images, app icons, descriptions) may be updated post-review.  
+- ActOut is fully functional with all mini-games ready to play locally.  
+- Some content (images, app icons, descriptions) may be updated post-release.  
 
 ---
 
 Thank you for trying **ActOut – Party Games**! 🎲  
-Enjoy and let the fun begin!
+Get your friends together and let the fun begin!
