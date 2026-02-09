@@ -23,7 +23,7 @@ To help us assist you quickly, please follow these steps:
 ## 🔹 Tips for Fast Support
 
 - Always include the **ActOut version** you are using.  
-- Specify your **device type** (iPhone, iPad, Android, etc.).  
+- Specify your **device type** (iPhone, Android, etc.).  
 - Be concise but detailed – it helps us resolve your issue quickly.  
 - Screenshots or screen recordings are very helpful.  
 
