@@ -16,10 +16,10 @@ ActOut is the ultimate party game app for friends and family. Whether it’s a c
   - **True or False** – Spot the bluffs or trick your friends.  
   - **Categories Bomber** – Think fast and find matching words before time runs out 💣  
 
-- **Simple and intuitive gameplay:**  
-  1. Add players  
-  2. Choose a mini-game  
-  3. Set your game experience and start playing  
+**Simple and intuitive gameplay:**
+  1. Add players
+  2. Choose a mini-game
+  3. Set your game experience and start playing
 
 - Perfect for small and large groups alike  
 - Quick to start, easy to use  
